@@ -19,7 +19,7 @@ How to Install:
     4.Change the file config.php can be read&write (666 is suggested).  
     让代码中的config.php文件程序可读写，推荐chmod 666 config.php。  
     5.View the website in chrome or other.  
-    在浏览器中访问。  
+    在浏览器中访问。 
 
 # Deploy to SCF  
 Official: https://cloud.tencent.com/product/scf  
